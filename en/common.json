@@ -1,5 +1,5 @@
 {
-  "appLoadingMessage": "Welcome to Lines of Battle!",
+  "appLoadingMessage": "Witaj w Lines of Battle!",
   "home": "Strona Główna",
   "language": "Język",
   "tutorial": "Samouczek",
@@ -44,7 +44,7 @@
   "logout": "Wyloguj się",
 
   "createNewGame": "Stwórz nową partię",
-  "randomGameInfo": "Dla losowo wygenerowanych partii, gra użyje armii, którą stworzyłeś(łaś) do wybranego trybu bitwy. Możesz zobaczyć i edytować swoje armie w <0>Układzie Armii</0>. Jeżeli nie stworzyłeś(łaś) jeszcze armii do danego trybu, użyta będzie domyślna armia.",
+  "randomGameInfo": "Dla losowo wygenerowanych partii, gra użyje stworzonych przez Ciebie armii do wybranego trybu bitwy. Możesz zobaczyć i edytować swoje armie w <0>Układzie Armii</0>. Jeżeli nie stworzyłeś(łaś) jeszcze armii do danego trybu, użyta będzie domyślna armia.",
   "selectGameMode": "Wybierz tryb gry z poniższych opcji.",
   "or": "Albo",
   "cancel": "Anuluj",
@@ -177,11 +177,11 @@
     "light-cannon-ball": "Lekka Kula Armatnia",
     "explosive-shell": "Pocisk Wybuchowy",
     "cavalry-sword": "Miecz Kawaleryjski",
-    "canister-fire": "Ogień Kartaczami",
-    "light-canister-fire": "Lekki Ogień Kartaczami",
+    "canister-fire": "Kartacze",
+    "light-canister-fire": "Lekkie Kartacze",
     "howitzer-canister": "Kartacz z Haubicy"
     "heavy-cannon-ball": "Ciężka Kula Armatnia",
-    "heavy-canister-fire": "Ciężki Ostrzał Kartaczami",
+    "heavy-canister-fire": "Ciężkie Kartacze",
     "dragoon-sword": "Miecz Dragoński",
     "horse-archer-bow": "Łuk kawaleryjski"
   },
@@ -301,15 +301,15 @@
     "message": "Nowa wersja Lines of Battle jest dostępna! Proszę zaktualizować do najnowszej wersji by móc grać online."
   },
 
-  "update": "Update!",
-  "yourArmyCompositionsFor": "Your Army Composition for",
-  "noUnitsYet": "No units yet",
-  "armyComposition": "Army Composition",
-  "budgetAvailable": "Budget Available",
-  "saveArmy": "Save army",
-  "clearUnits": "Clear units",
-  "saving": "Saving...",
-  "armyInvalid": "This army is invalid, please modify it.",
+  "update": "Aktualizacja!",
+  "yourArmyCompositionsFor": "Kompozycja Twojej armii dla: ",
+  "noUnitsYet": "Brak jednostek",
+  "armyComposition": "Kompozycja armii",
+  "budgetAvailable": "Dostępny budżet",
+  "saveArmy": "Zapisz armię",
+  "clearUnits": "Wyczyść jednostki",
+  "saving": "Zapisywanie...",
+  "armyInvalid": "Ta armia jest niepoprawna, zmodyfikuj ją",
 
   "landing": {
     "title": "Witaj w <0>Lines of Battle</0>",
@@ -542,7 +542,7 @@
   "leaveClan": "Opuść klan",
   "leave": "Opuść",
   "leaveClanModal": {
-    "message": "Czy jesteś pewny, że chcesz opuścić <0>{{clanName}}</0>?"
+    "message": "Czy na pewno chcesz opuścić <0>{{clanName}}</0>?"
   },
   "resetToDefault": "Zrestartuj do domyślnych",
   "submittingOrders": "Przesyłanie rozkazów...",
